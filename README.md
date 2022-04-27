@@ -7,7 +7,7 @@ vimos que agora o password utilizado pelo git é o personal token.
 e utilizamos os comandos do git:
 
 ```
-git status
+git add
 git status
 git commit
 git add
